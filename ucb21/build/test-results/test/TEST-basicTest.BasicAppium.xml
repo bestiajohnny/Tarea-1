@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basicTest.BasicAppium" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-02T02:37:29" hostname="DESKTOP-2G4RE7M" time="51.877">
+  <properties/>
+  <testcase name="createTaskWhenDo" classname="basicTest.BasicAppium" time="51.877"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ago. 01, 2021 10:38:09 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

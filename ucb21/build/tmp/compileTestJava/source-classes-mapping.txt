@@ -1,0 +1,46 @@
+cleanTest/ContactTest.java
+ cleanTest.ContactTest
+factoryDevices/IDevice.java
+ factoryDevices.IDevice
+activities/whenDo/MainScreen.java
+ activities.whenDo.MainScreen
+runner/MyStepMovile.java
+ runner.MyStepMovile
+factoryDevices/BrowserStack.java
+ factoryDevices.BrowserStack
+cleanTest/WhenDoTest.java
+ cleanTest.WhenDoTest
+factoryDevices/IOS.java
+ factoryDevices.IOS
+session/Session.java
+ session.Session
+factoryDevices/Android.java
+ factoryDevices.Android
+runner/FormularioLogin.java
+ runner.FormularioLogin
+runner/MyStepdefs.java
+ runner.MyStepdefs
+controlAppium/TextBox.java
+ controlAppium.TextBox
+runner/Runner.java
+ runner.Runner
+activities/whenDo/CreateTaskScreen.java
+ activities.whenDo.CreateTaskScreen
+factoryDevices/WindowPhone.java
+ factoryDevices.WindowPhone
+controlAppium/Control.java
+ controlAppium.Control
+basicTest/BasicJunit.java
+ basicTest.BasicJunit
+reporting/Report.java
+ reporting.Report
+controlAppium/Label.java
+ controlAppium.Label
+controlAppium/Button.java
+ controlAppium.Button
+factoryDevices/FactoryDevice.java
+ factoryDevices.FactoryDevice
+ factoryDevices.FactoryDevice$1
+ factoryDevices.FactoryDevice$DeviceType
+basicTest/BasicAppium.java
+ basicTest.BasicAppium
